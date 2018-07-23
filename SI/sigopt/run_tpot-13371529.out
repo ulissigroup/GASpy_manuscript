@@ -1,0 +1,28 @@
+Starting to pull documents...
+Generation 1 - Current best internal CV score: 0.115972920211
+Generation 2 - Current best internal CV score: 0.115972920211
+Generation 3 - Current best internal CV score: 0.115972920211
+Generation 4 - Current best internal CV score: 0.115644078851
+Generation 5 - Current best internal CV score: 0.115644078851
+Generation 6 - Current best internal CV score: 0.112575999152
+Generation 7 - Current best internal CV score: 0.112454887734
+Generation 8 - Current best internal CV score: 0.111497373397
+Generation 9 - Current best internal CV score: 0.111497373397
+Generation 10 - Current best internal CV score: 0.111302044041
+Generation 11 - Current best internal CV score: 0.111302044041
+Generation 12 - Current best internal CV score: 0.11049673342
+Generation 13 - Current best internal CV score: 0.11049673342
+Generation 14 - Current best internal CV score: 0.11049673342
+Generation 15 - Current best internal CV score: 0.11049673342
+Generation 16 - Current best internal CV score: 0.110408470209
+Generation 17 - Current best internal CV score: 0.110408470209
+Generation 18 - Current best internal CV score: 0.110408470209
+Generation 19 - Current best internal CV score: 0.109350437412
+Generation 20 - Current best internal CV score: 0.109350437412
+Generation 21 - Current best internal CV score: 0.109350437412
+Generation 22 - Current best internal CV score: 0.109350437412
+Generation 23 - Current best internal CV score: 0.109350437412
+Generation 24 - Current best internal CV score: 0.109350437412
+Generation 25 - Current best internal CV score: 0.109350437412
+
+Best pipeline: ExtraTreesRegressor(ElasticNetCV(CombineDFs(input_matrix, FastICA(input_matrix, tol=0.05)), l1_ratio=0.4, tol=0.001), bootstrap=False, max_features=1.0, min_samples_leaf=1, min_samples_split=12, n_estimators=100)

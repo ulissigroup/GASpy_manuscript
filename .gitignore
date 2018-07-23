@@ -1,0 +1,23 @@
+# Tex things
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.gz
+*.tdo
+acs-*.bib
+
+# Jupyter
+*.ipynb_checkpoints
+*-checkpoint.ipynb
+
+# OS X things
+**/.DS_Store
+
+# Vim things
+*.swp
+
+# MSWord backups
+*~$*
